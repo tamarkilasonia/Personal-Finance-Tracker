@@ -24,12 +24,3 @@ A simple **Java** application to track income and expenses. The app allows users
     ```
 2. Open the project in your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Run the `Main.java` class to start the application.
-
-### Usage
-1. The application will ask you to input details for a transaction (type, amount, category, and date).
-2. After entering the transaction, it will be saved in the `transactions.csv` file.
-3. You can choose to view all the saved transactions.
-
-## File Structure
-/Personal-Finance-Tracker │ ├── Main.java # Main class for user interaction ├── TransactionManager.java # Class handling saving and loading transactions └── transactions.csv # CSV file where transactions are stored
-
