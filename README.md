@@ -20,7 +20,7 @@ A simple **Java** application to track income and expenses. The app allows users
 ### Setup
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/Personal-Finance-Tracker.git
+    git clone https://github.com/tamarkilasonia/Personal-Finance-Tracker.git
     ```
 2. Open the project in your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Run the `Main.java` class to start the application.
